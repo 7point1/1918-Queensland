@@ -7,6 +7,7 @@ The 7 June 1918 Queensland earthquake in Australia was re-evaluated in a recent 
 ><p align="left">S.S. Martin, P.R. Cummins J.D. Griffin, D. Clark and T.I. Allen (2024), Resolving the location and magnitude of the 1918 Queensland (Bundaberg) Earthquake, Australia, <i>Bulletin of the Seismological Society of America</i> (BSSA), https://doi.org/10.1785/0120240029.
 ></p>
 
+![332062381-1daca3f8-2ab8-4740-b0b7-57480ff1beac](https://github.com/user-attachments/assets/fe29e142-5279-4f00-8a56-702ccfe4a6f4)
 
 
 #### Table S1: Newspapers (yellow tab)
